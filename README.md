@@ -30,5 +30,8 @@ Creating meaningful features such as average ratings, popularity scores, and use
 
 Building the Recommender System:
 
+A Basic Recommendation System Based on weigthed rating
+
 Collaborative Filtering: Using user-item interaction data to recommend movies based on similar user preferences.
+
 Content-Based Filtering: Recommending movies similar to those a user has liked based on movie metadata such as genres, cast, and plot summaries.
