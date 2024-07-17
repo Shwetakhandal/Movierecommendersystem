@@ -15,14 +15,19 @@ Approach
 Data Cleaning and Preprocessing:
 
 Handling missing values.
+
 Formatting and normalizing data for consistency.
+
 Exploratory Data Analysis (EDA):
 
 Understanding the distribution of genres, ratings, and other key features.
+
 Identifying patterns and trends in the data.
+
 Feature Engineering:
 
 Creating meaningful features such as average ratings, popularity scores, and user preferences.
+
 Building the Recommender System:
 
 Collaborative Filtering: Using user-item interaction data to recommend movies based on similar user preferences.
