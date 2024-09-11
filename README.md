@@ -1,6 +1,6 @@
 Movie Recommendation system
 
-About this project
+About this project->
 This dataset contains metadata for 45,000 movies released on or before July 2017, all listed in the MovieLens database. This project embarks on a journey to create a personalized movie recommender system, transforming this vast dataset into a tool that can predict and suggest movies tailored to individual tastes and preferences.
 
 The main objective of this project is to develop a robust and accurate movie recommender system. The system aims to:
